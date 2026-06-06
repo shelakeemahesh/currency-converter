@@ -194,7 +194,7 @@ const App: React.FC = () => {
             Up-to-date Exchange Rates
           </div>
           <h1 className="text-3xl md:text-4xl font-black bg-gradient-to-r from-sky-400 via-sky-300 to-indigo-400 bg-clip-text text-transparent tracking-tight">
-            Antigravity Converter
+            ForexFlow
           </h1>
           <p className="text-slate-400 mt-2 text-sm">
             Quick, reliable currency conversions with real-time exchange rates
